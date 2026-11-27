@@ -106,7 +106,7 @@ The folder structure remains language-based (`solutions/<language>/practice<n>.<
 | Rotting Oranges | python | [practice435.py](solutions/python/practice435.py) | Complete |
 | Running Sum of 1d Array | python | [practice154.py](solutions/python/practice154.py) | Complete |
 | Running Sum of 1D Array | python | [practice94.py](solutions/python/practice94.py) | Incomplete Header (Note or Topic (missing)) |
-| Search in Rotated Sorted Array | cpp | [practice6.cpp](solutions/cpp/practice6.cpp) | In Progress / Needs Work |
+| Search in Rotated Sorted Array | cpp | [practice6.cpp](solutions/cpp/practice6.cpp) | Complete |
 | Smallest Range I | python | [practice233.py](solutions/python/practice233.py) | Complete |
 | Sort an array containing 0s, 1s and 2s | python | [practice34.py](solutions/python/practice34.py) | Complete |
 | Sort an array of 0s, 1s and 2s without using any sorting algorithm. | python | [practice335.py](solutions/python/practice335.py) | Incomplete Header (Note or Topic (missing)) |
@@ -533,11 +533,10 @@ The folder structure remains language-based (`solutions/<language>/practice<n>.<
 ## Solutions Needing Attention
 
 These solutions need headers, test cases, or implementation fixes. They are ideal for contributor PRs.
-**Total needing attention:** 126
+**Total needing attention:** 125
 
 | Problem | Language | File | Needs |
 |---|---|---|---|
-| Search in Rotated Sorted Array | cpp | [practice6.cpp](solutions/cpp/practice6.cpp) | In Progress / Needs Work |
 | Two Sum | haskell | [practice1.hs](solutions/haskell/practice1.hs) | Incomplete Header (Note or Topic (missing)) |
 | Binary Search | java | [practice5.java](solutions/java/practice5.java) | In Progress / Needs Work |
 | Group Anagrams | javascript | [practice4.js](solutions/javascript/practice4.js) | In Progress / Needs Work |
