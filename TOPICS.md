@@ -73,7 +73,7 @@ The folder structure remains language-based (`solutions/<language>/practice<n>.<
 | Maximum Subarray | python | [practice338.py](solutions/python/practice338.py) | Incomplete Header (Note or Topic (missing)) |
 | Maximum subarray sum | python | [practice250.py](solutions/python/practice250.py) | Complete |
 | Merge Intervals | javascript | [practice7.js](solutions/javascript/practice7.js) | In Progress / Needs Work |
-| Merge Intervals | python | [practice130.py](solutions/python/practice130.py) | Incomplete Header (Note or Topic (missing)) |
+| Merge Intervals | python | [practice130.py](solutions/python/practice130.py) | Complete |
 | Merge Intervals | python | [practice255.py](solutions/python/practice255.py) | Complete |
 | Merge Intervals | python | [practice337.py](solutions/python/practice337.py) | Incomplete Header (Note or Topic (missing)) |
 | Merge Intervals | python | [practice7.py](solutions/python/practice7.py) | Complete |
@@ -533,7 +533,7 @@ The folder structure remains language-based (`solutions/<language>/practice<n>.<
 ## Solutions Needing Attention
 
 These solutions need headers, test cases, or implementation fixes. They are ideal for contributor PRs.
-**Total needing attention:** 125
+**Total needing attention:** 124
 
 | Problem | Language | File | Needs |
 |---|---|---|---|
@@ -556,7 +556,6 @@ These solutions need headers, test cases, or implementation fixes. They are idea
 | Spiral Matrix 2 | python | [practice126.py](solutions/python/practice126.py) | Incomplete Header (Note or Topic (missing)) |
 | Permutation Sequence | python | [practice127.py](solutions/python/practice127.py) | Incomplete Header (Note or Topic (missing)) |
 | Insert Interval | python | [practice129.py](solutions/python/practice129.py) | Incomplete Header (Note or Topic (missing)) |
-| Merge Intervals | python | [practice130.py](solutions/python/practice130.py) | Incomplete Header (Note or Topic (missing)) |
 | Spiral Matrix | python | [practice131.py](solutions/python/practice131.py) | Incomplete Header (Note or Topic (missing)) |
 | Jump Game | python | [practice132.py](solutions/python/practice132.py) | Incomplete Header (Note or Topic (missing)) |
 | Longest Substring Without Repeating Characters | python | [practice133.py](solutions/python/practice133.py) | Incomplete Header (Note or Topic (missing)) |
