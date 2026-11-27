@@ -17,5 +17,6 @@ class GetFinalStateTest(unittest.TestCase):
         self.assertEqual(self.sol.getFinalState([1, 2, 3], 0, 10), [1, 2, 3])
         self.assertEqual(self.sol.getFinalState([2, 1, 3, 5, 6], 5, 2), [8, 4, 6, 5, 6])
 
+
 if __name__ == "__main__":
     unittest.main()
