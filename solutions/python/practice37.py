@@ -11,7 +11,7 @@ class Solution:
     def addTwoNumbers(self, l1, l2):
 
         head = ListNode()
-        carry = (l1.val + l2.val) // 10
+        carry = 0
 
         current_node = head
 
