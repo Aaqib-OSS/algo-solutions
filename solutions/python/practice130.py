@@ -1,5 +1,7 @@
 # Problem: Merge Intervals
 # Source: https://leetcode.com/problems/merge-intervals/
+# Note: Sort by start time, then extend the last merged interval whenever the next one overlaps or touches it.
+# Time: O(n log n) for sorting, followed by an O(n) scan.
 
 def merge_intervals(intervals):
 
