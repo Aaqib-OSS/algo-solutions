@@ -3,6 +3,7 @@
 # Note: Repeatedly multiplies the first occurrence of the minimum array element by the given multiplier for k operations.
 class Solution(object):
     def getFinalState(self, nums, k, multiplier):
+        """Multiply the first minimum element by multiplier, k times, and return nums."""
 
         for _ in range(k):
             cur_min = min(nums)
@@ -14,6 +15,6 @@ class Solution(object):
         return nums
 
 s = Solution()
-print(s.getFinalState([1, 2, 3], 3, 10)) # [100, 20, 30]
-print(s.getFinalState([1, 1, 1], 3, 10)) # [1000, 1, 1]
+print(s.getFinalState([1, 2, 3], 3, 10)) # [10, 20, 30]
+print(s.getFinalState([1, 1, 1], 3, 10)) # [10, 10, 10]
 print(s.getFinalState([1, 2, 3], 0, 10)) # [1, 2, 3]

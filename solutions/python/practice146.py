@@ -4,5 +4,6 @@
 
 class Solution(object):
     def numberOfEmployeesWhoMetTarget(self, hours, target):
+        """Return the number of employees whose working hours are greater than or equal to the target amount."""
         return sum(1 for i in hours if i >= target)
 

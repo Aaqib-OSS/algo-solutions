@@ -4,6 +4,7 @@
 
 class Solution(object):
     def leftRightDifference(self, nums):
+        """Return the absolute difference between the left and right sums around each index."""
         if len(nums) == 1:
             return [0]
         
