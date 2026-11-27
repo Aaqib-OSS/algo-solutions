@@ -5,7 +5,8 @@
 # Each row starts and ends with 1.
 # The numbers in between are calculated using the previous number.
 # Time Complexity: O(n²), where n is the number of rows.
-
+"""Print Pascal's Triangle with the specified number of rows."""
+    
 n = int(input('Enter the number of rows: '))
 for i in range(n):
     c = 1

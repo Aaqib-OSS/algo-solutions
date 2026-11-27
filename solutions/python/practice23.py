@@ -2,6 +2,7 @@
 # Source: https://www.codewars.com/kata/52f677797c461daaf7000740
 # Note: Repeatedly subtracts smaller array elements from larger ones until all elements become equal, then returns their sum.
 def solution(lst):
+    """Return the minimum possible sum by repeatedly subtracting smaller elements from the largest until all elements are equal."""
     arr = lst
     
     while len(set(arr)) != 1:

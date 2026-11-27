@@ -12,6 +12,7 @@
 # Status: ✅ SOLVED
 
 def smallest_even_multiple(n):
+    """Return the smallest even multiple of the given positive integer."""
     if n <= 0:
         return 0
     
